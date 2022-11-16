@@ -25,7 +25,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="freemarker-demo" options="-parameters" />
-      <module name="heima-leadnews" options="-parameters" />
+      <module name="heima-leadnews" options="" />
       <module name="heima-leadnews-app-gateway" options="-parameters" />
       <module name="heima-leadnews-article" options="-parameters" />
       <module name="heima-leadnews-common" options="-parameters" />
